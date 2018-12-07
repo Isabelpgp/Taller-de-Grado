@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "deteccionenfermedades",
+  "private_key_id": "7834aed7a851b9518607569a72fa672894360849",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCW00PkfJXp8xjv\nOVHidVvjo7Zj3hlXxwUDzZt6mH6YvfKtWKREJxQDA0RedC6TXWB5VsgqTIWgfA6i\n2jYuB9qGmNqmGJXQA4WrJrhjHB/RaMCY62dFX96rIllrvBgVAgmNTROiAM/5KqVG\nrMztu2y5ur5fS60vhZQYMtp1OAmgTCmRn3m3UjOQ58HYQvGZ5DJ7rt6o6FkN2CKM\nEVc5CVz15VjxGzhHy4Aw8csQHasHQlHmB9Z3sqn4OWSt/2ugzkK6mgw+T0DbrC1e\njO7gh3wQROokIylkY8tH2DfNa8CVVbHcj7LgT7eg1OUe4qMh263Ovtnk+OYr2fDs\nFnI02MB9AgMBAAECggEACWizE3yGhqfSHk8LXG8D/+gSj1mHkl9ZoP0xOJ1C8ojm\nVtQ7j9PcmVEuxpywBiSdCYd1fmwJKbPriX3G7lQHmNN4JRn4s0IbqIvGah+9nWel\nR4o8m5+UNBq1DOCY+QCISNluLYeoRxaXD8O6bLnp7w6RueoDlb4bI8T9C13RqJSs\nfu2G9wyZmuv1BBUp+F7DIZ4Tv09YYv7BlfPcEh5vVrXyZbtVmhN2Y2p9KIGoP9lU\nGzJAx1sA/mVqT/QM7FvNyENlfC8U1wmsj8h8MnMdn96xIe812FXpzhT9GIiCcUH8\nB85Lr4wYVb0UnxRA1AFd5pXK8DXTF15oE5sZIzv8uQKBgQDVPQ+BybfT3nxCM0gk\ndiU8s+zyOBJl6Ot5/V7cJOJz9LcFEDn8UU8pj5DzqR2nCo3n8o/VHy3DIQRskDpf\nVo933p1it8Kl5CResfIjj9W0I+mwW1ZkK2L+OS+rc5ORf1OtD0QQp++TnxfSTOFU\nnIdLzt30E/4p1h9dV9ZnGNQZKQKBgQC1Eh7GqQd/nTMclWSJEvCb9HEZoWTRC1Dm\nxi2mal5ZSrye7EGVn7+IYZHldxKWByge13j84Ko9ne9HwEhEdPy/+GtHUAxgeea0\nulM3CiCp9QzzUAtibXGFkNmOEPlLKwp9id/LPlUjWBYEjK/KtAy9jAmQt0Osvz9K\nBTAbqTWTNQKBgQDNhvfuUb3UAQplSEZNlm5Xrtg/slnRTgnA37xRlV+LAiBxSe2J\ny9jwJwdAQw1ollymZn3Jni6ed7Fq7izE/Yp0r+WkY5fCCz4e44aOTjFdWowARljj\nXYohnH7c0x41y7KcCC3DnAnnkB0GvsEkq2YgZDg77BU6v74lWuc1IZI02QKBgQCf\nmbcy2C5Z15ADs9KH1//pFw7RzqZ0dAr9PtViCAPdpLiZRBmS7tn+NjJJFil1wB0n\nAjoMe2LTKPCOR/frD0rxUuAMXYxrRUeLKWjL7MtZwzuFA5rlSR504nZAeMmj7e4z\nNWHjXa/hlXTi0bbpbsaEFHkh68dk7rW0YtpCp2UnuQKBgDF/z4h8n5JLGO+XG0Am\nxeHDkSEkyzav4KNmCy7AdvpNGsGElZtN9uD8wynWz0iA++tHGwKyt3J2VsrrmlhK\nUvYMdIwaxn7E8q/fRXh1QH9Acp2tM9Hhlg0Ep//EslkqzE6Wwc/nBdgG9pTlYL1e\nb2ON1oMntuCYqVeais0zL1Rl\n-----END PRIVATE KEY-----\n",
+  "client_email": "miservicio@deteccionenfermedades.iam.gserviceaccount.com",
+  "client_id": "115131874511512676325",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/miservicio%40deteccionenfermedades.iam.gserviceaccount.com"
+}
